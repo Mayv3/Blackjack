@@ -1,0 +1,27 @@
+* {
+  margin: 0px !important;
+}
+html,
+body {
+  margin: 0px !important;
+  background-color: #2f4f30 !important;
+  color: white !important;
+}
+
+.tittle {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  font-size: 25px;
+}
+.carta {
+  width: 150px !important;
+  position: relative !important;
+  left: 90px;
+  margin-left: -75px !important;
+}
+#pc-card,
+#player-card {
+  min-height: 150px;
+}
